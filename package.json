@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-github-sync",
+  "version": "1.0.0",
+  "description": "Automatically sync LeetCode solved statistics to GitHub profile README",
+  "main": "sync.js",
+  "type": "module",
+  "scripts": {
+    "sync": "node sync.js",
+    "start": "echo \"Open index.html in your browser to view the configurator dashboard.\""
+  },
+  "keywords": [
+    "leetcode",
+    "github-actions",
+    "sync",
+    "automation"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}

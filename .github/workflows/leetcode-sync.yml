@@ -1,0 +1,31 @@
+name: Sync LeetCode Stats
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Runs every 3 hours
+  workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write # Allows the workflow to commit back to the repo
+
+jobs:
+  sync-leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run Sync Script
+        env:
+          LEETCODE_USERNAME: 'smani' # Replace with your LeetCode username
+        run: node sync.js
