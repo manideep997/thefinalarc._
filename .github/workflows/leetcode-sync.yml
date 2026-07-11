@@ -27,5 +27,5 @@ jobs:
 
       - name: Run Sync Script
         env:
-          LEETCODE_USERNAME: 'smani' # Replace with your LeetCode username
+          LEETCODE_USERNAME: 'manideep997' # Replace with your LeetCode username
         run: node sync.js

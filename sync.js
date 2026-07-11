@@ -3,7 +3,7 @@ import https from 'https';
 import path from 'path';
 import { execSync } from 'child_process';
 
-const username = process.env.LEETCODE_USERNAME || 'smani';
+const username = process.env.LEETCODE_USERNAME || 'manideep997';
 const readmePath = path.resolve('README.md');
 const solvedJsonPath = path.resolve('leetcode-solved.json');
 
