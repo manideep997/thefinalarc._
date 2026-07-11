@@ -3,11 +3,12 @@
 This repository is connected to LeetCode. Whenever you solve a problem, a GitHub Action automatically detects it and commits it with the commit message set to the question name and number (e.g. `1. Two Sum`).
 
 <!-- LEETCODE_START -->
-### 📊 My Solved Problems (2)
+### 📊 My Solved Problems (3)
 
 | Problem ID | Title | Difficulty | Language | Date Solved |
 | :---: | :--- | :---: | :---: | :---: |
 | 1 | Two Sum | 🟢 Easy | `python` | 2026-07-02 |
+| 21 | Merge Two Sorted Lists | 🟢 Easy | `python` | 2026-07-06 |
 | 1295 | Find Numbers with Even Number of Digits | 🟢 Easy | `python3` | 2026-02-18 |
 
 *Last synced on: Sat, 11 Jul 2026 06:30:07 GMT*
