@@ -1,0 +1,11 @@
+{
+  "solved": {
+    "find-numbers-with-even-number-of-digits": {
+      "id": "1295",
+      "title": "Find Numbers with Even Number of Digits",
+      "difficulty": "Easy",
+      "language": "python3",
+      "date": "2026-02-18"
+    }
+  }
+}
