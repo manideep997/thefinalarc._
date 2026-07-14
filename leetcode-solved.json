@@ -27,6 +27,13 @@
       "difficulty": "Medium",
       "language": "python",
       "date": "2026-07-11"
+    },
+    "reverse-linked-list": {
+      "id": "206",
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "language": "python",
+      "date": "2026-07-13"
     }
   }
 }
