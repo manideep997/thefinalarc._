@@ -6,6 +6,13 @@
       "difficulty": "Easy",
       "language": "python3",
       "date": "2026-02-18"
+    },
+    "two-sum": {
+      "id": "1",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "language": "python",
+      "date": "2026-07-02"
     }
   }
 }
