@@ -152,9 +152,11 @@ async function main() {
 
   if (isGitHubActions) {
     // Configure Git
-    console.log('Configuring local Git credentials inside runner...');
-    runCmd('git config --local user.email "github-actions[bot]@users.noreply.github.com"');
-    runCmd('git config --local user.name "github-actions[bot]"');
+    console.log(`Configuring local Git credentials for ${username}...`);
+    const gitEmail = process.env.GIT_EMAIL || `${username}@users.noreply.github.com`;
+    const gitName = process.env.GIT_NAME || username;
+    runCmd(`git config --local user.email "${gitEmail}"`);
+    runCmd(`git config --local user.name "${gitName}"`);
   }
 
   let newSolvesCount = 0;
