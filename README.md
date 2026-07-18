@@ -3,7 +3,7 @@
 This repository is connected to LeetCode. Whenever you solve a problem, a GitHub Action automatically detects it and commits it with the commit message set to the question name and number (e.g. `1. Two Sum`).
 
 <!-- LEETCODE_START -->
-### 📊 My Solved Problems (6)
+### 📊 My Solved Problems (7)
 
 | Problem ID | Title | Difficulty | Language | Date Solved |
 | :---: | :--- | :---: | :---: | :---: |
@@ -12,9 +12,10 @@ This repository is connected to LeetCode. Whenever you solve a problem, a GitHub
 | 21 | Merge Two Sorted Lists | 🟢 Easy | `python` | 2026-07-06 |
 | 141 | Linked List Cycle | 🟢 Easy | `python` | 2026-07-13 |
 | 206 | Reverse Linked List | 🟢 Easy | `python` | 2026-07-13 |
+| 234 | Palindrome Linked List | 🟢 Easy | `python` | 2026-07-18 |
 | 1295 | Find Numbers with Even Number of Digits | 🟢 Easy | `python3` | 2026-02-18 |
 
-*Last synced on: Tue, 14 Jul 2026 11:14:56 GMT*
+*Last synced on: Sat, 18 Jul 2026 21:54:11 GMT*
 <!-- LEETCODE_END -->
 
 ## 🚀 Setup Instructions

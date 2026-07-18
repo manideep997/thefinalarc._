@@ -41,6 +41,13 @@
       "difficulty": "Easy",
       "language": "python",
       "date": "2026-07-13"
+    },
+    "palindrome-linked-list": {
+      "id": "234",
+      "title": "Palindrome Linked List",
+      "difficulty": "Easy",
+      "language": "python",
+      "date": "2026-07-18"
     }
   }
 }
