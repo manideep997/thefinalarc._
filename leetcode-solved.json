@@ -48,6 +48,13 @@
       "difficulty": "Easy",
       "language": "python",
       "date": "2026-07-18"
+    },
+    "rearrange-string-to-avoid-character-pair": {
+      "id": "3992",
+      "title": "Rearrange String to Avoid Character Pair",
+      "difficulty": "Easy",
+      "language": "java",
+      "date": "2026-07-21"
     }
   }
 }
