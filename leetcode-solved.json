@@ -62,6 +62,13 @@
       "difficulty": "Easy",
       "language": "java",
       "date": "2026-07-22"
+    },
+    "remove-nth-node-from-end-of-list": {
+      "id": "19",
+      "title": "Remove Nth Node From End of List",
+      "difficulty": "Medium",
+      "language": "python",
+      "date": "2026-07-22"
     }
   }
 }

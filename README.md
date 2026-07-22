@@ -3,12 +3,13 @@
 This repository is connected to LeetCode. Whenever you solve a problem, a GitHub Action automatically detects it and commits it with the commit message set to the question name and number (e.g. `1. Two Sum`).
 
 <!-- LEETCODE_START -->
-### 📊 My Solved Problems (9)
+### 📊 My Solved Problems (10)
 
 | Problem ID | Title | Difficulty | Language | Date Solved |
 | :---: | :--- | :---: | :---: | :---: |
 | 1 | Two Sum | 🟢 Easy | `python` | 2026-07-02 |
 | 2 | Add Two Numbers | 🟡 Medium | `python` | 2026-07-11 |
+| 19 | Remove Nth Node From End of List | 🟡 Medium | `python` | 2026-07-22 |
 | 21 | Merge Two Sorted Lists | 🟢 Easy | `python` | 2026-07-06 |
 | 141 | Linked List Cycle | 🟢 Easy | `python` | 2026-07-13 |
 | 206 | Reverse Linked List | 🟢 Easy | `python` | 2026-07-13 |
@@ -17,7 +18,7 @@ This repository is connected to LeetCode. Whenever you solve a problem, a GitHub
 | 3978 | Unique Middle Element | 🟢 Easy | `java` | 2026-07-22 |
 | 3992 | Rearrange String to Avoid Character Pair | 🟢 Easy | `java` | 2026-07-21 |
 
-*Last synced on: Wed, 22 Jul 2026 13:50:10 GMT*
+*Last synced on: Wed, 22 Jul 2026 18:55:55 GMT*
 <!-- LEETCODE_END -->
 
 ## 🚀 Setup Instructions
