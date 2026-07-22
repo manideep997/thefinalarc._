@@ -55,6 +55,13 @@
       "difficulty": "Easy",
       "language": "java",
       "date": "2026-07-21"
+    },
+    "unique-middle-element": {
+      "id": "3978",
+      "title": "Unique Middle Element",
+      "difficulty": "Easy",
+      "language": "java",
+      "date": "2026-07-22"
     }
   }
 }
